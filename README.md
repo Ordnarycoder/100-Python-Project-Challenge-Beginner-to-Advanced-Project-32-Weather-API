@@ -1,0 +1,1 @@
+And my first api project with python. I used open meteo api to get weather data for this project.
